@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+
+# Editor
+.vscode/
+
+# Compiled TypeScript
+*.js
+*.js.map
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
